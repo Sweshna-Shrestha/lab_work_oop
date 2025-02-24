@@ -1,6 +1,6 @@
 package weeklyassessment1;
 
-public class Test
+public class test
 {
    //----------------------------------------------------
    //  Prints a statement.
