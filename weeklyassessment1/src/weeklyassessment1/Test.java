@@ -1,14 +1,12 @@
 package weeklyassessment1;
 
-public class test {
-	//----------------------------------------------------
-	//  Prints a statement.
-	//----------------------------------------------------
+public class Test
+{
+   //----------------------------------------------------
+   //  Prints a statement.
+   //----------------------------------------------------
+   public static void main (String[] args)
+   {
+      System.out.println ("An emergency Broadcast");
+   }
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("An Emergency Boardcast");
-
-	}
-
-}
