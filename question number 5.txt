@@ -1,0 +1,27 @@
+What is the latest version of the Java SDK that is available?
+Answer: JDK 23.0.2 is the latest version of the Java SDK that is available
+
+What is the difference between Java SE and Java ME? 
+Answer: 
+Java SE
+-Used for developing desktop applications,enterprise applications, and general-purpose software.
+-Runs on desktops,laptops and servers.
+-Requires more memory and processing power.
+-JavaFX, Swing, JDBC, Servlets etc.
+
+Java ME
+-Designed for mobile devices,embedded systems, and IoT applications. 
+-Runs on mobile phones,smart cards, and embedded devices. 
+-Optimized for low memory and limited processing power. 
+-MIDlets(Mobile Information Device Applications), CLDC(Connected Limited Device Configuration).
+
+Which operating system is Java available for? 
+Answer: 
+Windows, Linux, macOS, Solaris, and other unix-based Systems are the operating system Java is available for.
+
+What is the most popular IDE available for Java apart from Eclipse? Answer: 
+Most popular IDE available for Java apart from Eclipse are: Intellij IDEA NetBeans VS Code JDeveloper
+
+What is the main() function for in a Java program? 
+Answer: 
+The main() function in a Java program is to serve as the entry point from where JVM stats the execution.
